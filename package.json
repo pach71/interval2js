@@ -1,6 +1,6 @@
 {
   "name": "interval2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "No Delay Interval for Node.JS",
   "main": "index.js",
   "scripts": {
