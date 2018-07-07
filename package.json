@@ -1,0 +1,25 @@
+{
+  "name": "interval2",
+  "version": "1.0.0",
+  "description": "No Delay Interval for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pach71/interval2js.git"
+  },
+  "keywords": [
+    "interval",
+    "nodejs",
+    "delay",
+    "nodelay"
+  ],
+  "author": "Payam Chamani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pach71/interval2js/issues"
+  },
+  "homepage": "https://github.com/pach71/interval2js#readme"
+}
